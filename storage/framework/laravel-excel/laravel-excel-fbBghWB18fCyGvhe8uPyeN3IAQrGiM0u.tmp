@@ -1,0 +1,54 @@
+work_category_id,name
+2,Check/repair AC not cooling
+2,Check/repair AC not working
+2,Check/repair AC water leak
+2,Check/repair AC abnormal sound
+2,Check/repair AC breaker trip
+2,Check/repair AC remote not working
+2,Check/repair damage AC parts
+2,Check/repair error AC display
+3,Replace busted lights
+3,Check/repair lighting switch not working
+3,Check/repair power outlet not working
+3,Check/repair exhaust fan not working
+3,Check/repair exhaust fan abnormal sound
+3,Check/repair fire detector beeping
+3,Inspect/deactivate fire alarm ringing
+3,Check/repair power shutdown
+3,Check/repair intercom not working
+3,Check/repair photocell not working
+3,Check/repair water heater not heating
+3,Check/repair electric shock source
+1,Check/repair washer not working
+1,Check/repair dryer not working
+1,Check/repair oven not working
+1,Check/repair refrigerator not working
+6,Check/repair cabinet formica broken
+6,Check/repair damage cabinet hinges
+6,Check/repair damage cabinet handle
+6,Check/repair door lock not working
+6,Check/repair damage door hinges
+6,Check/repair damage door panel/frame
+6,Check/repair door closer not working
+6,Check/repair damage door stopper
+6,Check/replace broken window glass
+6,Check/repair damage window lock
+6,Check/repair damage window handle
+6,Check/replace damage window fly screen
+6,Check/repair damage gypsum/aluminum ceiling
+6,Check/repair fixing damage silicon
+6,Check/repair damage countertop
+6,Lock-out service
+5,Check/repair/filling concrete gaps
+5,Check/repair damage tile grout
+5,Check/repair broken/crack tiles/marble
+5,Check/repair damage water proofing
+4,Check/repair plumbing line water leak
+4,Check/repair damage/water leak valve
+4,Check/repair damage/water leak faucet
+4,Check/repair damage/water leak shattaf/bidet
+4,Check/repair drain clog
+4,Check/repair drain water leak
+4,Check/repair damage/leakage wc
+4,Check/repair damage bathub
+4,Check/repair damage/leakage water heater

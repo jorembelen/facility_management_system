@@ -1,0 +1,237 @@
+facility_type_id,location
+1,Foyer
+1,Men's Wash
+1,Men's Toilet
+1,Men's Sitting
+1,Dining Room
+1,Living Room
+1,Kitchen
+1,Maid's Room
+1,Maid's Toilet
+1,Corridor
+1,Kid's Bedroom-1
+1,Kid's Bedroom-2
+1,Laundry
+1,Common Wash
+1,Common Toilet
+1,Master's Bedroom
+1,Master's Dresser
+1,Master's Wash
+1,Master's Toilet
+2,Foyer
+2,Men's Wash
+2,Men's Toilet
+2,Men's Sitting
+2,Dining Room
+2,Living Room
+2,Kitchen
+2,Storage
+2,Maid's Room
+2,Maid's Toilet
+2,Corridor
+2,Kid's bedroom-1
+2,Kid's bedroom-2
+2,Laundry Area
+2,Common Wash
+2,Common Toilet
+2,Master Bedroom
+2,Master Dresser
+2,Master Wash
+2,Masters Toilet
+3,Foyer
+3,Men's Wash
+3,Men's Toilet
+3,Men's Sitting
+3,Dining Room
+3,Living Room
+3,Kitchen
+3,Storage
+3,Maid's Room
+3,Maid's Toilet
+3,Corridor
+3,Kid's bedroom-1
+3,Kid's bedroom-2
+3,Laundry Area
+3,Common Wash
+3,Common Toilet
+3,Master Bedroom
+3,Master Dresser
+3,Master Wash
+3,Master Toilet
+4,Foyer
+4,Men's Wash
+4,Men's Toilet
+4,Men's Sitting
+4,Dining Room
+4,Living Room
+4,Kitchen
+4,Maid's Room
+4,Maid's Toilet
+4,Corridor
+4,Kid's Bedroom-1
+4,Kid's Bedroom-2
+4,Laundry
+4,Common Wash
+4,Common Toilet
+4,Master Bedroom
+4,Master Private Sitting
+4,Master Dresser
+4,Master Wash
+4,Masters Toilet
+5,Yard Area
+5,Garage Area
+5,Driver's Entry
+5,Driver's Room
+5,Driver's Toilet
+5,Men's Entrance Porch
+5,Men's Foyer GF
+5,Men's Sitting Room
+5,Men's Wash Area
+5,Men's Toilet
+5,Dining Room
+5,Living Area
+5,Ladies Entrance
+5,Corridor GF
+5,Ladies Sitting Room
+5,Ladies Wash Area
+5,Ladies Toilet
+5,Kitchen
+5,Pantry
+5,Stair Hall
+5,Living Room FF
+5,Master Closet
+5,Master bedroom
+5,Master Toilet
+5,Ante-Room
+5,Kids Bedroom-1
+5,Kids Bedroom-2
+5,Common Toilet
+5,Semi-Master Bedroom
+5,Semi-Master Toilet
+5,Maid's Stair Hall
+5,Maid's Room
+5,Maid's Toilet
+5,Laundry Room
+5,Roof
+6,Yard Area
+6,Garage Area
+6,Driver's Entry
+6,Driver's Room
+6,Driver's Toilet
+6,Men's Entrance Porch
+6,Mens Foyer GF
+6,Men's Sitting
+6,Men's Wash Area
+6,Men's Toilet
+6,Dining Room
+6,Living Area
+6,Kitchen Area
+6,Storage Area
+6,Nook
+6,Ladies Entrance 
+6,Ladies Foyer gf
+6,Ladies Sitting
+6,Ladies Wash
+6,Ladies Toilet
+6,Stair Hall
+6,Master Ante-Room
+6,Private Sitting
+6,Master's Bedroom
+6,Master Closet
+6,Master Toilet
+6,Semi-Master Ante-Room
+6,Semi-Master Bedroom
+6,Semi-Master Closet
+6,Semi-Master Toilet
+6,Living Room
+6,Kids Bedroom-1
+6,Common Toilet
+6,Kids Bedroom-2
+6,Maid's Stair Hall
+6,Maid's Room
+6,Maid's Toilet
+6,Laundry
+6,Roof
+7,Yard Area
+7,Garage Area
+7,Driver's Entry
+7,Driver's Room
+7,Driver's Toilet
+7,Men's Entrance Porch
+7,Mens Foyer GF
+7,Men's Sitting Room
+7,Men's Wash Area
+7,Men's Toilet
+7,Dining Room
+7,Living Room GF
+7,Kitchen Area
+7,Storage Area
+7,Ladies Entrance 
+7,Ladies Foyer GF
+7,Ladies Sitting Room
+7,Ladies Wash
+7,Ladies Toilet
+7,Living Room GF
+7,Ante-Room
+7,Private Sitting
+7,Master Bedroom
+7,Dressing Doom
+7,Master Toilet
+7,Semi-Master Bedroom
+7,Semi-Master Dresing Room
+7,Semi-Master Toilet
+7,Common Wash Area
+7,Common Toilet
+7,Kid's Bedroom-1
+7,Kid's Ante-Room
+7,Kid's Bedroom-2
+7,Kid's Toilet Room
+7,Balcony
+7,Laundry
+7,Maid's Stair Hall
+7,Maid's Room
+7,Maid'sToilet
+7,Roof
+8,Men's Entrance Gate
+8,Ladies Entrance Gate
+8,Yard
+8,Garage Area
+8,Driver's Room
+8,Driver's Toilet
+8,Men's Entrance Porch
+8,Men's Foyer
+8,Men's Sitting
+8,Men's Wash Room
+8,Men's Toilet
+8,Dining Room
+8,Living Room GF
+8,Hallway GF
+8,Ladies Entrance
+8,Ladies Foyer
+8,Ladies Sitting
+8,Ladies Wash
+8,Ladies Toilet
+8,Nook
+8,Kitchen Area
+8,Storage Area
+8,Living Room FF
+8,Master Private Sitting Area
+8,Master Bedroom
+8,Master Dressing Room
+8,Master Toilet
+8,Hallway FF
+8,Semi-Master Ante-Room 1
+8,Semi-Master Bedroom-1
+8,Semi-Master Toilet-1
+8,Semi-Master Ante-Room 2
+8,Semi-Master Bedroom-2
+8,Semi-Master Toilet-2
+8,Ante-Room
+8,Kid's Bedroom-1
+8,Kid's Bedroom-2
+8,Common Toilet
+8,Maid's Stair Hall
+8,Maid's Room
+8,Maid's Toilet
+8,Laundry Area
+8,Roof
