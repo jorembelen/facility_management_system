@@ -161,12 +161,12 @@ class User extends Authenticatable
     {
         return empty($search) ? static::query()
         : static::query()
-        // ->whereNotIn('role', ['tenant'])
+        ->where('role', '!===', 'super_admin')
         ->where('name', 'like', '%'.$search.'%')
         ->orWhere('badge', 'like', '%'.$search.'%')
         ->orWhere('email', 'like', '%'.$search.'%')
         ->orWhere('mobile', 'like', '%'.$search.'%')
-        ->orWhere('role', 'like', '%'.$search.'%')
+        // ->orWhere('role', 'like', '%'.$search.'%')
         ->orWhere('username', 'like', '%'.$search.'%');
     }
 
